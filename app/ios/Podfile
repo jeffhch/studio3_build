@@ -3,7 +3,7 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 
 platform :ios, '11.0'
 
-target 'HomePage' do
+target 'UQLife' do
   config = use_native_modules!
 
   use_react_native!(
@@ -12,7 +12,13 @@ target 'HomePage' do
     :hermes_enabled => false
   )
 
-  target 'HomePageTests' do
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
+  pod 'react-native-pager-view', :path => '../node_modules/react-native-pager-view'
+
+  pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
+
+  target 'UQLifeTests' do
     inherit! :complete
     # Pods for testing
   end

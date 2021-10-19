@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860071704337",
+    "project_id": "uqlife",
+    "storage_bucket": "uqlife.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860071704337:android:783beb79d0cb9d486abeb0",
+        "android_client_info": {
+          "package_name": "com.uqlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860071704337-o7v98ah56phrdkrovtrijg1pr9ks6900.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnLGw7rqmLfWQdb7Tuy_Bk4DXfQuw-vac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860071704337-o7v98ah56phrdkrovtrijg1pr9ks6900.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
