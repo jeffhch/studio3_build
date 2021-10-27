@@ -6,11 +6,12 @@
 
 ## App Description
 App name: UQLife
+
+
 In UQ Life, you can post questions and get rewards for them and you also can use map in UQLife.The purpose of our project is to assist in the creation of a smart campus, satisfy students' requirements on campus, and deliver dynamic content for users to interact with.
 
 
 ## instructions
-
 
 first download the source code or the apk file
 step1: if you download the soure code, then you need to have a android studio in your computer. open it with andriod studio. if you download the apk file, then you can go to step 6
