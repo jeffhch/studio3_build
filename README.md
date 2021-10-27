@@ -46,7 +46,7 @@ step5: once you have your emulator, then you can run UQLife using run button
 
 
 
-step6:Then wait a while, it will show the login page
+step6: then wait a while, it will show the login page
 
 
 ![step6](https://i.imgur.com/jNjdSt7.png)
