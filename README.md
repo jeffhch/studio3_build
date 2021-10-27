@@ -17,22 +17,34 @@ step1: if you download the soure code, then you need to have a android studio in
 ![step1](https://i.imgur.com/9Nzqor4.png)
 
 
+
+
 step2: Then you need to enter npm install in the terminal if you cannot find node_modles in the source code. 
 ![step2](https://i.imgur.com/p6xWIBl.png)
+
+
 
 
 step3: Before running this app, enter npx react-native start
 ![step3](https://i.imgur.com/de5kVMG.png)
 
+
+
 step4: make sure you create a new emulator or you can use your mobile phone
 ![step4](https://i.imgur.com/8X9d0ee.png)
+
+
 
 step5: once you have your emulator, then you can run UQLife using run button
 ![step5](https://i.imgur.com/L7lutLv.png)
 
 
+
+
 step6:Then wait a while, it will show the login page
 ![step6](https://i.imgur.com/jNjdSt7.png)
+
+
 
 
 step7: then use our test user to login or you can create your own account
