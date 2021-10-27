@@ -14,25 +14,25 @@ In UQ Life, you can post questions and get rewards for them and you also can use
 
 first download the source code or the apk file
 step1: if you download the soure code, then you need to have a android studio in your computer. open it with andriod studio. if you download the apk file, then you can go to step 6
-!(https://i.imgur.com/9Nzqor4.png)
+![step1](https://i.imgur.com/9Nzqor4.png)
 
 
 step2: Then you need to enter npm install in the terminal if you cannot find node_modles in the source code. 
-!(https://i.imgur.com/p6xWIBl.png)
+![step2](https://i.imgur.com/p6xWIBl.png)
 
 
 step3: Before running this app, enter npx react-native start
-!(https://i.imgur.com/de5kVMG.png)
+![step3](https://i.imgur.com/de5kVMG.png)
 
 step4: make sure you create a new emulator or you can use your mobile phone
-!(https://i.imgur.com/8X9d0ee.png)
+![step4](https://i.imgur.com/8X9d0ee.png)
 
 step5: once you have your emulator, then you can run UQLife using run button
-!(https://i.imgur.com/L7lutLv.png)
+![step5](https://i.imgur.com/L7lutLv.png)
 
 
 step6:Then wait a while, it will show the login page
-!(https://i.imgur.com/jNjdSt7.png)
+![step6](https://i.imgur.com/jNjdSt7.png)
 
 
 step7: then use our test user to login or you can create your own account
