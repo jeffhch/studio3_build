@@ -25,26 +25,30 @@ step2: Then you need to enter npm install in the terminal if you cannot find nod
 
 
 
-step3: Before running this app, enter npx react-native start
+step3: Before running this app, enter npx react-native start.
 ![step3](https://i.imgur.com/de5kVMG.png)
 
 
 
 step4: make sure you create a new emulator or you can use your mobile phone
+
+
 ![step4](https://i.imgur.com/8X9d0ee.png)
 
 
 
 step5: once you have your emulator, then you can run UQLife using run button
+
+
 ![step5](https://i.imgur.com/L7lutLv.png)
 
 
 
 
 step6:Then wait a while, it will show the login page
+
+
 ![step6](https://i.imgur.com/jNjdSt7.png)
-
-
 
 
 step7: then use our test user to login or you can create your own account
