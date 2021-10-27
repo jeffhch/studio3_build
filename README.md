@@ -65,8 +65,12 @@ password:1234567
 our code is in the UQLife\app\main
 This consists of four parts: services, assets, components and resorce
 ![code1](https://i.imgur.com/bGYHySD.png)
+
+
 All the features are in components folder, We have created different folders for each features, which will make it easier for users to understand.
 ![code1](https://i.imgur.com/PBv2EKf.png)
+
+
 All pictures are in assets folder. 
 
 
